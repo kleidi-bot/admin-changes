@@ -1,5 +1,6 @@
 ---
 title: Changelog
+current: 0.7.9
 ---
 
 ### 0.7.9 (12/10/2020)
