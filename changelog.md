@@ -3,6 +3,11 @@ title: Changelog
 current: 0.7.9
 ---
 
+### 0.7.9 [HOTFIX] (12/17/2020)
+
+**Fixed**:
+- Tax Rates have been fixed with the option now to select from your available Tax Rates created in Stripe.
+
 ### 0.7.9 (12/10/2020)
 
 **Added**:
