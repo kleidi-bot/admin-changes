@@ -1,7 +1,22 @@
 ---
 title: Changelog
-current: 0.7.9
 ---
+
+### 0.8.4 (12/23/2020)
+
+**Fixed**:
+- User metadata now displays correctly on user information panel
+- Password module now accurately displays errors and field requirements
+
+### 0.8.3 (12/22/2020)
+
+**Added**:
+- Strong Customer Authentication support
+- 3D Secure payment verification support
+
+**Fixed**:
+- Users will now be notified to complete any pending payments via 3DS if applicable before using services.
+
 
 ### 0.8.1 [HOTFIX] (12/17/2020)
 
