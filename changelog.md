@@ -2,6 +2,14 @@
 title: Changelog
 ---
 
+### 0.8.5 (1/1/2021)
+
+**Added**:
+- Link to status page in landing footer
+
+**Fixed**:
+- Bundle names and their requirements are now accurately displayed when creating one
+
 ### 0.8.4 (12/23/2020)
 
 **Fixed**:
