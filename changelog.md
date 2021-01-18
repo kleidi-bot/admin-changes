@@ -2,6 +2,21 @@
 title: Changelog
 ---
 
+### 0.9.0 (1/17/2021)
+
+**Added**:
+- Elegant theme added
+- New background elements and customization options for Elegant theme available
+- Changing prices, initial prices, trials, and interval is now available
+
+**Fixed**:
+- Dark and light theme are now respected on theme customization modal
+- Users now show the correct card information with new SCA update
+- Fields for Stripe & BotBroker keys now accurately reflect their set/unset state
+- Fixed an issue with trial days causing errors with bundles due to non-nullable value
+- Fix styling and margins on some forms
+- Metadata now shows properly on user information page
+
 ### 0.8.5 (1/1/2021)
 
 **Added**:
