@@ -2,6 +2,14 @@
 title: Changelog
 ---
 
+### 0.9.0 [HOTFIX] (1/23/2021)
+
+**Added**:
+- Administrators are now able to modify the password and state of password page.
+
+**Fixed**:
+- Bundle intervals now appear correctly for certain bundle types.
+
 ### 0.9.0 (1/17/2021)
 
 **Added**:
