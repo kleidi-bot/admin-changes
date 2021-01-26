@@ -2,6 +2,17 @@
 title: Changelog
 ---
 
+### 0.9.2 (1/25/2021)
+
+**Added**:
+- Skeleton now appears when navigating pages on paginatable tables
+- Bundle status added to table
+- Sentry reporting for some network errors
+
+**Fixed**:
+- Page numbers and count are now correct
+- Bundle types and name now display correctly
+
 ### 0.9.0 [HOTFIX] (1/23/2021)
 
 **Added**:
