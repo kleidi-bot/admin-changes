@@ -2,6 +2,15 @@
 title: Changelog
 ---
 
+### 0.9.3 (3/02/2021)
+
+**Added**:
+- Ability to add tax rates to bundles
+- Application API docs updated
+
+**Fixed**:
+- Bundle tax rate now shown as a % with a link to the external stripe object
+
 ### 0.9.2 (1/25/2021)
 
 **Added**:
