@@ -2,6 +2,16 @@
 title: Changelog
 ---
 
+### 0.9.6 (4/28/2021)
+
+**Added**:
+- Add BETA panel
+- Add webhooks UI including view, create, and delete
+- Add reports beta page
+
+**Fixed**:
+- Add User email field is now working properly again
+
 ### 0.9.3 (3/02/2021)
 
 **Added**:
